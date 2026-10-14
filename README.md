@@ -1,12 +1,14 @@
 <img align="right" src="https://wayne-star.vercel.app/api?username=Wayne-HJ&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
 
+I'm Wayne Jiang, a Sydney-based engineer.
 
-# Tools should just be tools.
+I believe tools should be just that — tools. Simple, purposeful, and built to serve people.
 
-I'm Wayne Jiang, a Sydney-based engineer building **itecnet** — a return to what apps were supposed to be.
+That's why I'm building itecnet — to bring apps back to what they were meant to be.
 
 ## The idea
+
 
 Somewhere along the way, apps stopped serving us and started harvesting us. A flashlight wants your phone number. A calculator wants your real name. Tools caught the login disease.
 
@@ -38,3 +40,5 @@ An open-source desktop database workspace for macOS & Windows. Browse data, writ
 - ✉️ wayne@itecnet.com
 
 🔗 https://portfolio.jianght.eu.org/
+
+
