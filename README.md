@@ -39,6 +39,5 @@ An open-source desktop database workspace for macOS & Windows. Browse data, writ
 
 - ✉️ wayne@itecnet.com
 
-🔗 https://portfolio.jianght.eu.org/
 
 
